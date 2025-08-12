@@ -8,5 +8,6 @@ namespace MemoryGardenWPF.Repositories
 {
     public interface IGameStatsRepository
     {
+
     }
 }
